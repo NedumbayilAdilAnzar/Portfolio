@@ -36,13 +36,19 @@ portfolio/
 
 ## Live Website
 
-[View My Portfolio](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)
+[View My Portfolio](https://nedumbayiladilanzar.github.io/Portfolio/)
+
+The public page was checked on November 11, 2026 and loaded the portfolio content, including the About, Projects, and Contact sections.
+
+## Responsive Project Grid
+
+The project cards use CSS Grid in `style.css`: one column by default, two columns at a minimum viewport width of 700px, and three columns at 1000px. The Projects navigation link targets the `#projects` section in `index.html`.
 
 ## Running the Project Locally
 
 1. Clone this repository:
 
-   `git clone YOUR_REPOSITORY_LINK`
+    `git clone https://github.com/NedumbayilAdilAnzar/Portfolio.git`
 
 2. Open the project folder.
 3. Open `index.html` in your browser.
